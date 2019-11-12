@@ -50,7 +50,7 @@ Then extract the zip (put the resulting folder next to the Dockerfile):
 tar -xf l_openvino_toolkit*
 ```
 
-Then build th image:
+Then build the image:
 
 ```
 docker build -t <username>/openvino .
